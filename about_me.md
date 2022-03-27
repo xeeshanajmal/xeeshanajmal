@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @xeeshanajmal
+- 👀 I’m interested in Python and Cyber Security.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on Python and other projects.
+- 📫 How to reach me.. well text me here.

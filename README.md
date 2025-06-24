@@ -5,9 +5,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/xeeshanajmal)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:xeeshanajmal@gmail.com)
 
-- 🎓 Master’s Student at University of Oulu  
-- 🤖 Passionate about AI, Cybersecurity, and Research  
-- 🛡️ Exploring LLM Security, Threat Detection, and OSINT  
+## What I do? 
+
+- 🛡️ Research Assistant @ [University of Oulu](https://www.oulu.fi/fi)
+- 🎓 Master’s Student in Computer Science @ University of Oulu  
+- 🔐 Passionate about Cybersecurity, AI, and Data-Driven Systems  
+- 🧠 Exploring how AI can secure digital infrastructure & automate insights  
 - ✍️ I share what I learn through blog posts & GitHub projects
 
 ---

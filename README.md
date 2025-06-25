@@ -3,18 +3,22 @@
 ## Hey! I’m Zeeshan Ajmal
 <p align="left">
   <a href="https://linkedin.com/in/zeeshanajmal" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="border-radius: 50%; margin-right: 10px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" style="border-radius: 50%; margin-right: 10px;" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/zeeshanajmal" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="border-radius: 50%; margin-right: 10px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" style="border-radius: 50%; margin-right: 10px;" alt="GitHub"/>
   </a>
   <a href="https://medium.com/@xeeshanajmal" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="40" style="border-radius: 50%; margin-right: 10px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="40" style="border-radius: 50%; margin-right: 10px;" alt="Medium"/>
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" style="border-radius: 50%; margin-right: 10px;" />
+  <a href="https://x.com/xeeshanajmal" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="40" style="border-radius: 50%; margin-right: 10px;" alt="Twitter X"/>
+  </a>
+  <a href="mailto:xeeshanajmal@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" style="border-radius: 50%; margin-right: 10px;" alt="Email"/>
   </a>
 </p>
+
 
 ## What I do? 
 

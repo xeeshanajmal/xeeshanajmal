@@ -10,7 +10,7 @@
 
 - 🛡️ Research Assistant @ [University of Oulu](https://www.oulu.fi/fi)
 - 🎓 Master’s Student in Computer Science @ University of Oulu  
-- 🔐 Passionate about Cybersecurity, AI, and Data-Driven Systems  
+- 🔐 Passionate about Cybersecurity, AI, and Quantum computing  
 - 🧠 Exploring how AI can secure digital infrastructure & automate insights  
 - ✍️ I share what I learn through blog posts & GitHub projects
 

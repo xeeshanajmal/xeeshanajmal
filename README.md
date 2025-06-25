@@ -1,10 +1,20 @@
 <img src="banner.png" width="100%" alt="Banner showing cloud, data science, programming logos">
 
 ## 👋 Hey! I’m Zeeshan Ajmal
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/xeeshanajmal)
-[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/xeeshanajmal)
-[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@xeeshanajmal)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:xeeshanajmal@gmail.com)
+<p align="left">
+  <a href="https://linkedin.com/in/zeeshanajmal" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="border-radius: 50%; margin-right: 10px;" />
+  </a>
+  <a href="https://github.com/zeeshanajmal" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="border-radius: 50%; margin-right: 10px;" />
+  </a>
+  <a href="https://medium.com/@xeeshanajmal" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="40" style="border-radius: 50%; margin-right: 10px;" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" style="border-radius: 50%; margin-right: 10px;" />
+  </a>
+</p>
 
 ## What I do? 
 

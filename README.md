@@ -18,8 +18,9 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" style="border-radius: 50%; margin-right: 10px;" alt="Email"/>
   </a>
   <a href="https://mastodon.social/@xeeshanajmal" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968901.png" width="40" style="border-radius: 50%; margin-right: 10px;" alt="Mastodon"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mastodon.svg" width="40" style="background:white; border-radius: 50%; padding: 5px; margin-right: 10px;" alt="Mastodon"/>
   </a>
+
 </p>
 
 

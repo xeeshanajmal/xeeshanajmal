@@ -1,6 +1,6 @@
 <img src="banner.png" width="100%" alt="Banner showing cloud, data science, programming logos">
 
-## 👋 Hey! I’m Zeeshan Ajmal
+## Hey! I’m Zeeshan Ajmal
 <p align="left">
   <a href="https://linkedin.com/in/zeeshanajmal" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="border-radius: 50%; margin-right: 10px;" />

@@ -3,6 +3,7 @@
 ## 👋 Hey! I’m Zeeshan Ajmal
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/xeeshanajmal)
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/xeeshanajmal)
+[![Medium](https://img.shields.io/badge/Medium-red?logo=gmail)](https://medium.com/@xeeshanajmal)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:xeeshanajmal@gmail.com)
 
 ## What I do? 

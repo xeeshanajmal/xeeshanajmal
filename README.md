@@ -31,7 +31,7 @@
 - 🎓 Master’s Student in Computer Science @ University of Oulu  
 - 🔐 Passionate about Cybersecurity, AI, and Quantum computing  
 - 🧠 Exploring how AI can secure digital infrastructure & automate insights  
-- ✍️ I share what I learn through blog posts & GitHub projects
+- ✍️ I share what I learn, through [LinkedIn](https://www.linkedin.com/in/xeeshanajmal) posts, [Medium](https://medium.com/@xeeshanajmal) articles, & GitHub projects
 
 ---
 

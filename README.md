@@ -14,11 +14,11 @@
   <a href="https://x.com/xeeshanajmal" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="40" style="border-radius: 50%; margin-right: 10px;" alt="X Twitter"/>
   </a>
-  <a href="mailto:xeeshanajmal@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" style="border-radius: 50%; margin-right: 10px;" alt="Email"/>
-  </a>
   <a href="https://mastodon.social/@xeeshanajmal" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mastodon.svg" width="40" style="background:white; border-radius: 50%; padding: 5px; margin-right: 10px;" alt="Mastodon"/>
+  </a>
+  <a href="mailto:xeeshanajmal@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" style="border-radius: 50%; margin-right: 10px;" alt="Email"/>
   </a>
 
 </p>

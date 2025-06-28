@@ -60,10 +60,8 @@
 ---
 
 ## 📌 Featured Projects
-- 🔐 [log-anomaly-detector](https://github.com/zeeshanajmal/log-anomaly-detector) – Detect anomalies in system logs using ML  
-- 🧠 [phishing-detector-ml](https://github.com/zeeshanajmal/phishing-detector-ml) – NLP-based phishing email classification  
-- 🧪 [llm-security-tester](https://github.com/zeeshanajmal/llm-security-tester) – Prompt injection testing tool for LLM apps  
-- 📊 [secure-ai-api](https://github.com/zeeshanajmal/secure-ai-api) – FastAPI-secured ML model deployment with JWT & CI/CD
+- 🔐 [shodan-gpt-analyzer](https://github.com/zeeshanajmal/shodan-gpt-analyzer) – LLM-Powered Tool to Scan the Internet for Vulnerable Devices Using Shodan 
+
 
 ---
 

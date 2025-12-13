@@ -1,4 +1,4 @@
-<img src="quantum.png" width="100%" alt="Banner showing cloud, data science, programming logos">
+<img src="qeq.png" width="100%" alt="Banner showing cloud, data science, programming logos">
 
 ## Hey! I’m Zeeshan Ajmal
 <p align="left">

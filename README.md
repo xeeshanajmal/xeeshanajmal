@@ -3,11 +3,11 @@
 <!-- GitHub Profile: Zeeshan Ajmal -->
 
 <h1 align="left">Zeeshan Ajmal</h1>
-<p align="center">
+<p align="left">
   Doctoral Researcher · Cyber Exposure & Vulnerability Lead · Quantum Cybersecurity & AI
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/xeeshanajmal">LinkedIn</a> ·
   <a href="https://github.com/xeeshanajmal">GitHub</a> ·
   <a href="https://medium.com/@xeeshanajmal">Medium</a> ·

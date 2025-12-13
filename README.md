@@ -2,13 +2,13 @@
 
 <!-- GitHub Profile: Zeeshan Ajmal -->
 
-<h1 align="center">Zeeshan Ajmal</h1>
+<h1 align="left">Zeeshan Ajmal</h1>
 <p align="center">
   Doctoral Researcher · Cyber Exposure & Vulnerability Lead · Quantum Cybersecurity & AI
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/xeeshanajmal">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/xeeshanajmal">LinkedIn</a> ·
   <a href="https://github.com/xeeshanajmal">GitHub</a> ·
   <a href="https://medium.com/@xeeshanajmal">Medium</a> ·
   <a href="mailto:zeeshan.ajmal@oulu.fi">Email</a>
@@ -111,7 +111,7 @@ I am open to:
 - Joint security projects and tooling (exposure management, LLM security, quantum-safe designs)  
 - Guest talks, seminars, and workshops on cybersecurity, AI, and quantum topics
 
-You can reach me via **[email](mailto:zeeshan.ajmal@oulu.fi)** or **[LinkedIn](https://www.linkedin.com/xeeshanajmal)**.
+You can reach me via **[email](mailto:zeeshan.ajmal@oulu.fi)** or **[LinkedIn](https://www.linkedin.com/in/xeeshanajmal)**.
 
 
 ---

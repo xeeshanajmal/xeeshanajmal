@@ -27,10 +27,9 @@
 
 ## What I do? 
 
-- 🛡️ Research Assistant @ [University of Oulu](https://www.oulu.fi/fi)
-- 🎓 Master’s Student in Computer Science @ University of Oulu  
-- 🔐 Passionate about Cybersecurity, AI, and Quantum computing  
-- 🧠 Exploring how AI can secure digital infrastructure & automate insights  
+- 🛡️ Doctoral Reseacher @ [University of Oulu](https://www.oulu.fi/fi)
+- 🎓 Master’s in Computer Science (Cybersecurity) from University of Oulu  
+- 🔐 Working on Quantum Computing, AI and Cybersecurity  
 - ✍️ I share what I learn, through [LinkedIn](https://www.linkedin.com/in/xeeshanajmal) posts, [Medium](https://medium.com/@xeeshanajmal) articles, & GitHub projects
 
 ---

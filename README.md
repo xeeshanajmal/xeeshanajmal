@@ -4,7 +4,7 @@
 
 <h1 align="left">Zeeshan Ajmal</h1>
 <p align="left">
-  Doctoral Researcher · Cyber Exposure & Vulnerability Lead · Quantum Cybersecurity & AI
+  Doctoral Researcher · Quantum Cybersecurity & AI · Cyber Exposure & Vulnerability Lead 
 </p>
 
 <p align="left">

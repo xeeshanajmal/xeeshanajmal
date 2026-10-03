@@ -8,6 +8,7 @@
 </p>
 
 <p align="left">
+  <a href="https://xeeshanajmal.github.io">Website</a> ·
   <a href="https://www.linkedin.com/in/xeeshanajmal">LinkedIn</a> ·
   <a href="https://github.com/xeeshanajmal">GitHub</a> ·
   <a href="https://medium.com/@xeeshanajmal">Medium</a> ·
